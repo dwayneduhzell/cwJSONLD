@@ -1,0 +1,207 @@
+<script type='application/ld+json'>
+{
+	"@context": "http://www.schema.org",
+	"@type": ["Organization", "LocalBusiness","Notary"],
+	"@id": "#TheBusiness",
+	"image": "https://www.crispvideo.com/wp-content/uploads/2018/03/holliday-karatinos-video-marketing-for-lawyers",
+	"name": "Holliday Karatinos Law Firm, PLLC",
+	"legalName" : "Holliday Karatinos Law Firm, PLLC",
+	"alternateName": "Holliday Karatinos Law Firm",
+	"url": "https://www.helpinginjuredpeople.com",
+	"mainEntityOfPage": {
+		"@type": "WebPage",
+		"@id": "https://www.helpinginjuredpeople.com"
+	},
+	"logo": "https://www.helpinginjuredpeople.com/wp-content/uploads/2017/06/holliday-logo.png",
+	"telephone": "18138681887",
+	"description": "With over five decades of combined legal experience, Holliday Karatinos Law Firm provides seasoned legal representation to victims of accidents and negligence.",
+	"priceRange": "$$",
+	"openingHours": "Mo,Tu,We,Th,Fr 08:00-17:00",
+	"paymentAccepted":"Visa, Master Card, Discover, Amex,",
+	"address": {
+		"@type": "PostalAddress",
+		"addressLocality": "Lutz",
+		"addressRegion": "FL",
+		"postalCode":"33548",
+		"streetAddress": "18920 N Dale Mabry Hwy #101"
+	},
+	"geo": {
+		"@type": "GeoCoordinates",
+		"latitude": "28.163731",
+		"longitude": "-82.479301"
+	},
+	"contactPoint": [
+		{
+			"@type": "ContactPoint",
+			"telephone": "+1-813-868-1887",
+			"contactType": "customer service",
+			"email": "info@helpinginjuredpeople.com",
+			"areaServed": [
+				"US"
+			],
+			"availableLanguage": [
+				"English"
+			]
+		}
+	],
+	"sameAs": [
+		"https://www.facebook.com/HollidayKaratinosLawFirm",
+		"https://www.youtube.com/channel/UC4JAag91ybFgD9SWlu6H_kg",
+		"https://twitter.com/HollidayLawFirm",
+		"https://www.linkedin.com/company/holliday-karatinos-law-firm",
+		"https://www.yelp.com/biz/holliday-karatinos-law-firm-lutz-4",
+		"https://www.crunchbase.com/organization/holliday-karatinos-law-firm-pllc",
+		"https://g.co/kgs/j6gCeH"
+	],
+	"makesOffer":[
+		{
+			"@type":"Offer",
+			"itemOffered":
+				{
+					"@type":"Service",
+					"name":"Personal Injury Attorney",
+					"url":"https://www.helpinginjuredpeople.com/personal-injury-attorney/"
+				}
+			},
+			{
+				"@type":"Offer",
+				"itemOffered":
+				{
+					"@type":"Service",
+					"name":"Premises Liability Lawyer",
+					"url":"https://www.helpinginjuredpeople.com/personal-injury-attorney/premises-liability-lawyer/"
+				}
+			}
+	],
+	"location": [
+		{
+			"@type": "PostalAddress",
+			"telephone": "+13525970009",
+			"streetAddress": "15316 Cortez Blvd",
+			"addressLocality": "Brooksville",
+			"addressRegion": "FL",
+			"addressCountry": "US",
+			"postalCode": "34613",
+			"serviceArea":
+				[
+					{
+						"@type": "postalAddress",
+						"addressLocality":"Cheval",
+						"addressRegion": "FL",
+						"addressCountry": "US"
+						},
+						{
+						"@type": "postalAddress",
+						"addressLocality":"Tampa",
+						"addressRegion": "FL",
+						"addressCountry": "US"
+						},
+						{
+						"@type": "postalAddress",
+						"addressLocality":"Land O Lakes",
+						"addressRegion": "FL",
+						"addressCountry": "US"
+					}
+				]
+		},
+		{
+			"@type": "PostalAddress",
+			"telephone": "+13525970009",
+			"streetAddress": "111 West Main Street Suite 304",
+			"addressLocality": "Inverness",
+			"addressRegion": "FL",
+			"addressCountry": "US",
+			"postalCode": "34450"
+		}
+	],
+	"aggregateRating": {
+			"@type":"AggregateRating",
+			"ratingValue":"5",
+			"bestRating":"5",
+			"reviewCount":"719",
+			"itemReviewed": "#HollidayKaratinosLawFirm"
+	},
+	"potentialAction": {
+		"@type": "OrderAction",
+		"target":
+		{
+			"@type": "EntryPoint",
+			"name":"Free Consultation",
+			"urlTemplate": "https://www.helpinginjuredpeople.com/contact-us/#contact-form",
+			"inLanguage": "en-US",
+			"actionPlatform":
+			[
+				"http://schema.org/DesktopWebPlatform",
+				"http://schema.org/IOSPlatform",
+				"http://schema.org/AndroidPlatform"
+			]
+		},
+		"result":
+		{
+			"@type": "Reservation",
+			"name": "Book Your Free Legal Consultation"
+		}
+	},
+	"foundingDate": "2005",
+	"founders": [
+		{
+			"@type": "Person",
+			"name": "James Wayne Holliday",
+			"worksFor": "Holliday Karatinos Law Firm, PLLC",
+			"image": "https://www.helpinginjuredpeople.com/wp-content/uploads/2015/07/attorney-jim-holliday-300x314.jpg",
+			"jobTitle": "Owner",
+			"alumniOf": "Stetson University College of Law",
+			"birthPlace": "Lutz, Fl",
+			"gender": "male",
+			"nationality": "American",
+			"telephone": "18138681887",
+			"url": "https://www.helpinginjuredpeople.com/about-us/james-wayne-holliday/",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "Lutz",
+				"addressRegion": "Fl",
+				"postalCode":"33548",
+				"streetAddress": "18920 N Dale Mabry Hwy #101"
+			},
+			"colleague": [
+				"https://www.helpinginjuredpeople.com/about-us/theodore-karatinos/"
+			],
+			"sameAs" : [
+				"https://lawyers.justia.com/lawyer/james-wayne-holliday-1497906",
+        "https://www.linkedin.com/in/jim-holliday-6736263a/",
+        "https://www.floridabar.org/directories/find-mbr/profile/?num=45284",
+        "https://www.avvo.com/attorneys/33548-fl-james-holliday-1239607.html",
+        "https://www.lawyers.com/lutz/florida/james-wayne-holliday-ii-846708-a/",
+        "https://www.martindale.com/attorney/mr-james-wayne-holliday-ii-846708/"
+			]
+		},
+		{
+			"@type": "Person",
+			"name": "Theodore E. Karatinos",
+			"worksFor": "Holliday Karatinos Law Firm, PLLC",
+			"image": "https://www.helpinginjuredpeople.com/wp-content/uploads/2015/07/theodore.jpg",
+			"jobTitle": "Partner",
+			"alumniOf": "Stetson University College of Law",
+			"gender": "male",
+			"nationality": "American",
+			"telephone": "(813) 868-1887",
+			"url": "https://www.helpinginjuredpeople.com/about-us/theodore-karatinos/",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "Lutz",
+				"addressRegion": "Fl",
+				"postalCode":"33548",
+				"streetAddress": "18920 N Dale Mabry Hwy #101"
+			},
+			"colleague": [
+				"https://www.helpinginjuredpeople.com/about-us/james-wayne-holliday/"
+			],
+			"sameAs" : [
+				"https://www.linkedin.com/in/ted-karatinos-3790b4b/",
+				"https://lawyers.justia.com/lawyer/theodore-ted-e-karatinos-esq-1497908",
+				"https://www.floridabar.org/directories/find-mbr/profile/?num=983209"
+			]
+		}
+	]
+}
+</script>
